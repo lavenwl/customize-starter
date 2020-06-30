@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "laven.prop",
+      "type": "com.laven.LavenProperties",
+      "sourceType": "com.laven.LavenProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "laven.prop.age",
+      "type": "java.lang.Integer",
+      "description": "这是打印的年龄",
+      "sourceType": "com.laven.LavenProperties",
+      "defaultValue": 20
+    },
+    {
+      "name": "laven.prop.name",
+      "type": "java.lang.String",
+      "description": "这是打印的名字",
+      "sourceType": "com.laven.LavenProperties",
+      "defaultValue": "lavenDefault"
+    }
+  ],
+  "hints": []
+}

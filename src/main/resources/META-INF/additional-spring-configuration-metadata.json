@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "name": "laven.prop.name",
+      "type": "java.lang.String",
+      "description": "这是打印的名字",
+      "defaultValue": "laven"
+    }, {
+      "name": "laven.prop.age",
+      "type": "java.lang.Integer",
+      "description": "这是打印的年龄",
+      "defaultValue": 18
+    }
+  ]
+}
